@@ -1,2 +1,2 @@
 # Frontend-Mentor-Challenges
-My completed submissions for the Frontend Mentor challenges
+My completed and in-progress submissions for the Frontend Mentor challenges
